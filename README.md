@@ -1,4 +1,4 @@
-# PROBLEMA-5-FASE-5-EVALUACIO-N-POA
+# PROBLEMA-5-FASE-5-EVALUACION-POA
 Desarollo de problemas mediante sistema de programación Python
 # ==========================================
 # CONTROL DE HORAS SEMANALES
